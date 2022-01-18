@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.fcm_app">
+    package="com.fernandogonzalez.fcm_app">
    <application
         android:label="fcm_app"
         android:icon="@mipmap/ic_launcher">
